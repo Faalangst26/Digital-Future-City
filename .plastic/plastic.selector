@@ -1,4 +1,0 @@
-repository "Digital Future City@Digital_Future_City@cloud"
-  path "/"
-    br "/main"
-    co "/main"
